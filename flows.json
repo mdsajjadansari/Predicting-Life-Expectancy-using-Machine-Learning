@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2633f0fc.b215b",
+        "type": "function",
+        "z": "9937fc73.f9115",
+        "name": "Received_from_Endpoint",
+        "func": "msg.payload=msg.payload.values[0][0];\nmsg.payload = (Math.round(msg.payload * 100)/ 100).toFixed(1);\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 513,
+        "y": 418,
+        "wires": [
+            [
+                "8ce6758c.a8483",
+                "11e470b9.0b0827"
+            ]
+        ]
+    }
+]
