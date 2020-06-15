@@ -1,4 +1,4 @@
-### llSPS-INT-1519-Predicting-Life-Expectancy-using-Machine-Learning
+### llSPS-INT-1519-Predicting-Life-Expectancy-using-Machine-Learning (Internship)
 
 # Project Title : Predicting Life Expectancy using Machine Learning    
 _By : Md Sajjad Ansari_    
@@ -21,7 +21,7 @@ Scope, Schedule, Team & Deliverables
  <img style="width:300px;height:300px;background-color:white" src="https://archive.vn/ZHJhf/a7d742020ddc80db1e3ca393c390aa30ae3aa93a/scr.png"><br>
 </a>
 ### Discussion :
-Using Machine Learning I have explain and predict the life expectancy of different countries depending on various factors such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths and many other factors of the countries.
+This is an internship project asigned to me where using Machine Learning I have explain and predict the life expectancy of different countries depending on various factors such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths and many other factors of the countries.
 
 Here I have created Two models. The Algorithms have been used to test if they can provide good prediction with less erros while predicting the life expectancy for new data.
 The Model Algorithms have been used are:
