@@ -13,7 +13,7 @@ Life expectancy is a statistical measure of the average time a human being is ex
 ## Project Kickoff [Open File](https://github.com/SmartPracticeschool/llSPS-INT-1519-Predicting-Life-Expectancy-using-Machine-Learning/blob/master/llSPS_INT_1519_Predicting%20Life%20Expectancy%20using%20Machine%20Learning.pdf)
 Scope, Schedule, Team & Deliverables
 
-## Solution: [Live-Site](https://life-expectancy-predition.mybluemix.net/ui)
+## Solution:
 
 **In case, if Live-site is forming any error check Webpage archive**
 
